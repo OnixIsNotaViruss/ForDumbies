@@ -1,3 +1,6 @@
+![Screenshot](https://styles.redditmedia.com/t5_4fpqn1/styles/communityIcon_tnjw4wp31rz61.png)
+
+
 # Onix Is Not a Virus
 
 here is the thing, onix is a game laucher which is so god damn gud! and now im going to proove it ok 
