@@ -1,9 +1,9 @@
 # Onix Client
-
+## Onix is a very popular minecraft client but people often think its a virus cuz of the anti viruses now in this article im going to prove that onix client is a legit client and is not suspicsious
 
 ![Screenshot](https://styles.redditmedia.com/t5_4fpqn1/styles/communityIcon_tnjw4wp31rz61.png)
 
-## Onix is a very popular minecraft client but people often think its a virus cuz of the anti viruses now in this article im going to prove that onix client is a legit client and is not suspicsious
+
 
 
 # Onix Is Not a Virus
@@ -30,6 +30,8 @@ it will flag it as a virus, you must not belive that. Onix is sometimes flagged 
 onix is so god damn safe that it has so many users, you can see the discord member count ! more than 150k 
 
 many popular minecraft youtubers made videos about it 
+
+if you still have any issues then you can check the source code [here](https://github.com/notcarlton/OnixLauncher/)
 
 its seriously ON TOP!
 
